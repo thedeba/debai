@@ -1,5 +1,4 @@
-const API_URL = "/generate"; // Hugging Face Space endpoint
-
+const API_URL = "https://thedeba-debai.hf.space/generate";
 // Elements
 const chatBody = document.getElementById('chat-body');
 const userInput = document.getElementById('user-input');
